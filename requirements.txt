@@ -117,8 +117,6 @@ python-dateutil
 python-json-logger 
 pytz 
 PyWavelets==1.7.0
-pywin32==306
-pywinpty 
 PyYAML 
 pyzmq==26.0.2
 qtconsole 
