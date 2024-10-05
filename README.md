@@ -1,9 +1,9 @@
 # Analisis Data Musiman dan Bulanan Penyewaan Sepeda: Tren dan Faktor Penentu
 
 ## Setup Environment - Anaconda
-conda create --name main-ds python=3.9
+conda create --name bike_sharing-ds python=3.9
 
-conda activate main-ds
+conda activate bike_sharing-ds
 
 pip install -r requirements.txt
 
