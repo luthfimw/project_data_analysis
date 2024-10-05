@@ -93,10 +93,8 @@ optree==0.12.1
 overrides 
 packaging 
 pandas==2.2.2
-pandas-profiling==3.2.0
 pandocfilters 
 parso==0.8.4
-phik==0.12.4
 pillow==10.4.0
 pipenv==2024.1.0
 platformdirs==4.2.1
@@ -130,7 +128,6 @@ rfc3339-validator
 rfc3986-validator 
 rich==13.7.1
 rpds-py 
-scikit-learn==1.5.1
 scipy==1.14.0
 seaborn==0.13.2
 Send2Trash 
