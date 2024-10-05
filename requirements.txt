@@ -144,7 +144,6 @@ tangled-up-in-unicode==0.2.0
 tenacity==9.0.0
 tensorboard==2.9.0  # Turunkan versi agar lebih stabil
 tensorboard-data-server==0.6.1
-tensorflow==2.9.0  # Turunkan versi agar lebih stabil
 termcolor==2.4.0
 terminado
 threadpoolctl==3.1.0  # Sesuaikan untuk kompatibilitas dengan scikit-learn yang lebih lama
