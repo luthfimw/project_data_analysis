@@ -47,7 +47,7 @@ ipython==8.24.0
 ipywidgets
 jedi==0.19.1
 Jinja2 
-joblib==1.1.1
+joblib
 json5 
 jsonschema 
 jsonschema-specifications 
