@@ -84,7 +84,6 @@ nest-asyncio==1.6.0
 networkx==3.3
 notebook
 notebook_shim
-numpy==1.23.5  # Turunkan versi untuk memastikan kompatibilitas
 openpyxl==3.1.5
 opt-einsum==3.3.0
 optree==0.12.1
